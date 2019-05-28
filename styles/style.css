@@ -18,8 +18,8 @@ h2 {
 
 html {
 	background-color: black;
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
-  font-family: "Stylish", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  font-size: 10px; 
+  font-family: "Stylish", sans-serif; 
 }
 
 img {
