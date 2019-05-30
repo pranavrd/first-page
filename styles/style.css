@@ -32,8 +32,6 @@ body {
   width: 1000px;
   height: 570px;
   margin: 0 auto;
-  /*background-color: #081B1B;*/
-  background-image: url("https://cdn.vox-cdn.com/thumbor/spPrIJTacIK3wYL6_YQQtTcHIU0=/0x0:864x1280/920x613/filters:focal(363x571:501x709):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63239723/MLou2_Payoff_1_Sht_Online_DOM_v7_Sm_0.0.jpg");
-  padding: 0 20px 20px 20px;
+  background-color: #081B1B;
   border: 10px solid #011B46;
 }
